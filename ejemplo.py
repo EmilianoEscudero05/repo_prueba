@@ -1,2 +1,2 @@
 print("Hola mundo")
-print("IRD 5A")
+print("Redes 5a")
